@@ -1,0 +1,14 @@
+{
+    "name": "tadna-editorial/rss-reader",
+    "description": "A lightweight PHP RSS/Atom reader for Tadna.",
+    "type": "project",
+    "require": {
+        "php": "^8.4",
+        "ext-curl": "*",
+        "ext-simplexml": "*",
+        "ext-mbstring": "*"
+    },
+    "scripts": {
+        "test": "php tests/run.php"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Tadna",
+    "description": "Tecnología de consumo: noticias, lanzamientos, análisis, tutoriales y guías de compra.",
+    "website": "https://www.tadna.com/",
+    "github_profile": "https://github.com/tadna-editorial",
+    "feeds": {
+        "es": {
+            "label": "Español",
+            "url": "https://tadna.com/es/rss.xml",
+            "website": "https://www.tadna.com/es/actualidad"
+        },
+        "en": {
+            "label": "Inglés",
+            "url": "https://tadna.com/en/rss.xml",
+            "website": "https://www.tadna.com/en/news"
+        },
+        "fr": {
+            "label": "Francés",
+            "url": "https://tadna.com/fr/rss.xml",
+            "website": "https://www.tadna.com/fr/actualites"
+        },
+        "it": {
+            "label": "Italiano",
+            "url": "https://tadna.com/it/rss.xml",
+            "website": "https://www.tadna.com/it/notizie"
+        },
+        "de": {
+            "label": "Alemán",
+            "url": "https://tadna.com/de/rss.xml",
+            "website": "https://www.tadna.com/de/nachrichten"
+        },
+        "pt": {
+            "label": "Portugués",
+            "url": "https://tadna.com/pt/rss.xml",
+            "website": "https://www.tadna.com/pt/noticias"
+        }
+    }
+}
